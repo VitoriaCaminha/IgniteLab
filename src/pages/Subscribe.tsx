@@ -61,7 +61,7 @@ export function Subscribe() {
                     </form>
                 </div>
             </div>
-            <img src="/src/assets/codeBackground.png" className="max-w-[1100px]" alt="editor de códigos junto com alguns simbolos destacados." />
+            <img src="https://i.imgur.com/BLG9cb5.png" className="max-w-[1100px]" alt="editor de códigos junto com alguns simbolos destacados." />
         </div>
     )
 }
